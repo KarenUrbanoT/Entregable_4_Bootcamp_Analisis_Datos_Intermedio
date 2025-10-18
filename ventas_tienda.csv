@@ -1,0 +1,16 @@
+ID_Venta,Fecha,Producto_ID,Categoria,Cantidad,Precio_Unitario,Cliente_ID,Region 
+1,2023-01-15,P101,Electronica,2,1200.00,C001,Norte 
+2,2023-01-16,P102,Ropa,3,25.50,C002,Sur 
+3,2023-01-16,P103,Hogar,1,75.00,C003,Este 
+4,2023-01-17,P101,Electronica,1,1200.00,C001,Norte 
+5,2023-01-18,P104,Libros,,15.00,C004,Oeste 
+6,2023-01-19,P102,Ropa,2,25.50,C002,Sur 
+7,2023-01-20,P105,Electronica,1,899.99,C005,Norte 
+8,2023-01-20,P105,Electronica,1,899.99,C005,Norte 
+9,2023-01-21,P106,Hogar,4,30.25,C001,Norte 
+10,2023-01-22,P107,Juguetes,2,19.99,C006,Sur 
+11,2023-01-23,P102,Ropa,1,26.00,C003,Este 
+12,2023-01-24,P101,Electronica,NaN,1150.00,C007,Oeste 
+13,2023-01-25,P108,Alimentos,10,2.50,C004,Oeste 
+14,2023-01-25,P103,Hogar,2,70.00,C001,Norte 
+15,2023-01-26,P109,electronica,1,55.00,C008,Sur
